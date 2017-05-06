@@ -1,4 +1,4 @@
-> pm2官方文档：&lt;[http://pm2.keymetrics.io/docs/usage/quick-start/&gt](http://pm2.keymetrics.io/docs/usage/quick-start/&gt);
+> pm2官方文档：&lt;[http://pm2.keymetrics.io/docs/usage/quick-start/&gt;](http://pm2.keymetrics.io/docs/usage/quick-start/&gt);
 
 # 简单教程
 
@@ -101,13 +101,13 @@ pm2 stop app.js
 
 # 强健的API
 
-在项目中运行：
+在项目中运行：（显示部署的服务器信息和程序的信息）
 
 ```
 pm2 web
 ```
 
-然后浏览器访问&lt;[http://localhost:9615&gt](http://localhost:9615&gt); 你会有惊喜！
+然后浏览器访问&lt;[http://localhost:9615&gt;](http://localhost:9615&gt); 你会有惊喜！
 
 # 预定义运行配置文件
 
@@ -192,7 +192,7 @@ pm2 stop [app id]
 pm2 web
 ```
 
-更多pm2内容请参考官方文档：&lt;[http://pm2.keymetrics.io/docs/usage/quick-start&gt](http://pm2.keymetrics.io/docs/usage/quick-start&gt);
+更多pm2内容请参考官方文档：&lt;[http://pm2.keymetrics.io/docs/usage/quick-start&gt;](http://pm2.keymetrics.io/docs/usage/quick-start&gt);
 
 坚持把简单的事情做好就是不简单，坚持把平凡的事情做好就是不平凡。所谓成功，就是在平凡中做出不平凡的坚持。
 
