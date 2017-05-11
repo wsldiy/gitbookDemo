@@ -7,4 +7,5 @@
   * 1.2 gitbook-cli下载
 * [Introduction](README.md)
 * [PM2](pm2.md)
+* [gitbook](gitbook.md)
 
